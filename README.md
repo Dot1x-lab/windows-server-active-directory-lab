@@ -1,7 +1,8 @@
-Windows Server 2022 & Active Directory Lab
+## Windows Server 2022 & Active Directory Lab
 A hands-on Windows Server administration project built using Proxmox VE to develop practical skills in networking, system administration, and cybersecurity.
 
-🎯 Project Overview
+# 🎯 Project Overview
+
 This project involves building and managing a virtualized Windows Server environment to practise essential IT infrastructure administration tasks.
 🛠️ Technologies Used
 * Proxmox VE
@@ -23,32 +24,36 @@ This project involves building and managing a virtualized Windows Server environ
 | Ubuntu Server | Ubuntu Server |
 
 
-📚 Practical Exercises
+# 📚 Practical Exercises
 1. Windows Server Deployment
 * Installed Windows Server 2022.
 * Configured DC01.
 * Configured a static IP address.
+
 2. Active Directory Administration
 * Installed Active Directory Domain Services.
 * Created the lab.local domain.
 * Created the IT-Department Organizational Unit.
 * Created and managed domain user accounts.
 * Created the IT Support security group.
+
 3. Windows 11 Domain Integration
 * Installed Windows 11 Pro.
 * Joined CLIENT01 to the domain.
 * Tested domain user authentication.
+
 4. Group Policy Management
 * Created and linked a GPO.
 * Restricted access to Control Panel and PC Settings.
 * Verified policy application on CLIENT01.
+
 5. Password and Account Security
 * Configured domain password policy.
 * Configured account lockout settings.
 * Investigated account lockout behaviour.
 
 
-📊 Project Status
+# 📊 Project Status
 Completed
 * Windows Server deployment
 * Active Directory configuration
@@ -62,7 +67,7 @@ In Progress
 * PowerShell administration exercises
 
 
-🎓 Skills Developed
+# 🎓 Skills Developed
 * Windows Server administration
 * Active Directory management
 * Domain authentication
@@ -72,7 +77,7 @@ In Progress
 * PowerShell fundamentals
 
 
-📸 Project Evidence
+# 📸 Project Evidence
 Screenshots, configuration examples, and test results will be added as the project progresses.
  
 ⸻

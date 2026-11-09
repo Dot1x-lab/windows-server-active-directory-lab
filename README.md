@@ -13,14 +13,14 @@ This project involves building and managing a virtualized Windows Server environ
 * PowerShell
 
 
-🖥️ Lab Environment
-Component	Configuration
-Hypervisor	Proxmox VE
-Domain Controller	DC01
-Domain	lab.local
-Client Machine	CLIENT01
-Client OS	Windows 11 Pro
-Ubuntu Server	Ubuntu Server
+| Component | Configuration |
+| :--- | :--- |
+| Hypervisor | Proxmox VE |
+| Domain Controller | DC01 |
+| Domain | lab.local |
+| Client Machine | CLIENT01 |
+| Client OS | Windows 11 Pro |
+| Ubuntu Server | Ubuntu Server |
 
 
 📚 Practical Exercises

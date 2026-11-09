@@ -12,7 +12,7 @@ This project involves building and managing a virtualized Windows Server environ
 * DNS
 * PowerShell
 
-Lab Environment
+# Lab Environment
 | Component | Configuration |
 | :--- | :--- |
 | Hypervisor | Proxmox VE |
